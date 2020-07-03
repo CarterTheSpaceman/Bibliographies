@@ -1,7 +1,8 @@
 # reddit_bibliogaphies
-LaTeX Repository for r/Bibliographies
+Repository for r/Bibliographies
 
 Hello! Welcome to the Repository! <br />
+Each Section corresponds to a different academic field. <br />
 There are current Work in Progress for each S.T.E.M. field we are working on. <br />
 There are also full published Main Documents relating to each field and one Master LaTeX bibliography.<br />
 <br />
